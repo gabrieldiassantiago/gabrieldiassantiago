@@ -39,8 +39,8 @@
 <br />
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="teste.svg" />
+  Quantidade de visitas<br>
+  <img src="./teste.svg" />
 </p>
 
 -----

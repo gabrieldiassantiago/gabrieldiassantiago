@@ -10,8 +10,11 @@
 **O que eu ando fazendo?**
 
 👨🏽‍💻 Atualmente estou trabalhando em algo legal 😉.
+
 🌱 Atualmente estou aprendendo Python.
+
 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar.
+
 📫 Como me contatar: gabriel_dias_santiago@hotmail.com.
 
 ***

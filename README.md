@@ -7,7 +7,7 @@
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
-**Talking about Personal Stuffs:**
+**O que eu ando fazendo?**
 
 👨🏽‍💻 Atualmente estou trabalhando em algo legal 😉.
 🌱 Atualmente estou aprendendo Python.

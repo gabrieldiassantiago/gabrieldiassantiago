@@ -9,28 +9,17 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning Python. 
-- 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: shwetangsingh5@gmail.com.
+👨🏽‍💻 Atualmente estou trabalhando em algo legal 😉.
+🌱 Atualmente estou aprendendo Python.
+💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar.
+📫 Como me contatar: gabriel_dias_santiago@hotmail.com.
 
 ***
 
  <br>
 
-📈 My Github stats <br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
-</p>
 
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-<br>
-
-**Languages and Tools**
+**As linguagens que eu sei**
 
 <code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></code>
 <code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -49,10 +38,10 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <img src="teste.svg" />
 </p>
 
 -----
-Credits: [Shwetang550](https://github.com/Shwetang550)
+Credits: [Gabriel](https://github.com/gabrieldiassantiago)
 
-Last Edited on: 15/01/2021
+Editado última vez em: 21/08/2022

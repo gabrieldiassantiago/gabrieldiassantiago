@@ -1,125 +1,58 @@
-# Hi everyone :wave:
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Shwetang</a></h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shwetang-3335b896/">LinkedIN</a> •
+  <a href="https://www.instagram.com/shwetang_singh/">Instagram</a> •
+  <a href="https://twitter.com/Shwetang550">Twitter</a>
+</p>
 
-I'm a 15-year-old web developer from the Czech Republic, who loves open source.
-I mainly code in Python and JavaScript, but I am always learning. I am currently
-working on a couple of open-source projects, including my own
-[Interclip](https://github.com/aperta-principium/Interclip), which is a tool
-that can be used to share links across devices. I also just started contributing
-to [Open Sauced](https://github.com/open-sauced/open-sauced), which is a site to
-manage your future open-source contributions.
+<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
-## Quick overview
-* GitHub stats:  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiptronicek&langs_count=8" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
+**Talking about Personal Stuffs:**
 
- (also from a project I'm contributing to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-* Latest blog post: <a class="post" href="https://blog.trnck.dev/all-the-timely-matters/">All the time(ly) matters (published on December 4, 2020)</a>
-* Latest tweet: [![my latest tweet @filiptronicek](https://raw.githubusercontent.com/filiptronicek/filiptronicek/master/tweet.png)](https://twitter.com/filiptronicek)
-script made by [@zhiiiyang](https://github.com/zhiiiyang/)
+- 👨🏽‍💻  I’m currently working on something cool :wink:.
+- 🌱  I’m currently learning Python. 
+- 💬  Ask me about anything, I am happy to help.
+- 📫  How to reach me: shwetangsingh5@gmail.com.
 
-Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
-* [Brian Douglas](https://github.com/bdougie) 
-* [Kyle Daigle](https://github.com/kdaigle)
+***
 
-<details>
-<summary>
-  More stuff about me
-</summary>
+ <br>
 
-### What I do
+📈 My Github stats <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
+</p>
 
-I do Open Source. In fact, I do Open Source so much, that 95% of my work on
-GitHub is free and open to everyone. I am really passionate about doing web
-development, it is in my opinion the best combination of logical programming and
-(sometimes) beautiful design.
+*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-## My skills 📜
+<br>
 
-### Web technologies
+**Languages and Tools**
 
-- JavaScript
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- HTML, CSS
-  ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
-- SCSS
-- Node.js ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- Deno
-- WordPress
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- PHP
-- MySQL
+<code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+<code><img alt="HTML5" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
 
-### Application Development
+***
 
-- Python ([Microsoft Certified](https://www.youracclaim.com/badges/46b260a8-ef2c-41a3-9f61-aa0920eab84a/public_url))
-- C++ (sort of)
+<br />
 
-### Productivity utilities
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+</p>
 
-- Microsoft Office - I am a Certified
-  [Excel](https://www.youracclaim.com/badges/36154164-82b5-4fbf-b65c-c152af720245/public_url)
-  and
-  [Word](https://www.youracclaim.com/badges/6f4eee1d-3379-4a8b-b846-35762708d4b8/public_url)
-  Expert
-
-### Languages 🌐
-
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
-| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Czech         | Native language                                                           |
-
-## What I'm currently learning 📚
-
-- TypeScript
-- React.js
-- React Native
-- Ruby
-
-## Projects I'm the most proud of
-
-| Name            | Description                                                          | Language      | Repo                                                             |
-| --------------- | -------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------- |
-| Interclip       | A clipboard and file sharing tool                                    | PHP           | [aperta-principium/Interclip](https://s.trnck.dev/interclip-git) |
-| Open Sauced     | 🍕 This is a project to identify your next open source contribution. | JS / React.js | [open-sauced/open-sauced](https://s.trnck.dev/sauced-git)        |
-| gitpy           | A Python wrapper for git                                             | Python        | [filiptronicek/gitpy](https://s.trnck.dev/gitpy)                 |
-| Dataset Creator | Simple Flickr Image Scraper and compression script                   | Python        | [filiptronicek/dataset-creator](https://s.trnck.dev/a831c)       |
-
-## In the works
-
-Stuff that is looking forward to be shipped :shipit: 
-| Name of project | Current State | Version |
-|-----------------|---------------|---------|
-|[Interclip mobile](https://github.com/filiptronicek/iclip-mobile) | Shipping MVP | [v0.2.0](https://github.com/filiptronicek/iclip-mobile/releases/tag/v0.2.0) |
-|[Open Sauced](https://github.com/open-sauced/open-sauced/) | Fixing bugs and adding key features | [v0.18.2](https://github.com/open-sauced/open-sauced/releases/tag/v0.18.2) |
-| [Taskord mobile](https://github.com/filiptronicek/taskord-mobile/) | Trying to get to MVP | -not release yet-
-
-## My own dictionary 📕:
-
-| Word / abreviation | Meaning                                                | Note                                             |
-| ------------------ | ------------------------------------------------------ | ------------------------------------------------ |
-| FFO                | Fífa Friendly Office (a place where I can work safely) | Idea by [@aellopos](https://github.com/aellopos) |
-
-## Website subdomains 🔌
-
-My website has quite a few of them, here's a list of the public ones:
-
-- [thanks.trnck.dev](https://thanks.trnck.dev) - my thanks page to my sponsors
-- [download.trnck.dev](http://download.trnck.dev) - download some important
-  assets, which I personally use
-- [status.trnck.dev](https://status.trnck.dev) - status page for my sites
-- [btc.trnck.dev](https://btc.trnck.dev) - track the price of Bitcoin - data
-  from [filiptronicek/btc-tracker](https://github.com/filiptronicek/btc-tracker)
-- [qr.trnck.dev](https://qr.trnck.dev) - create a QR code in 2 seconds
-</details>
 -----
-Credits: [filiptronicek](https://github.com/filiptronicek)
+Credits: [Shwetang550](https://github.com/Shwetang550)
 
-Last Edited on: 25/12/2020
+Last Edited on: 15/01/2021

@@ -1,49 +1,17 @@
-<h2 align="center">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , eu sou o <a href="https://github.com/gabrieldiassantiago">Gabriel</a></h2>
-<p align="center">
-  <a href=["https://www.linkedin.com/in/shwetang-3335b896](https://www.linkedin.com/in/gabriel-dias-santiago-a584701b8/)/">LinkedIN</a> •
-  <a href="[https://www.instagram.com/shwetang_singh/](https://www.instagram.com/_dias17y/)">Instagram</a> •
+<h1 align="center">Olá,👋, eu sou o Gabriel Dias</h1>
+<h3 align="center">Desenvolvedor front-end e designer UI/UX</h3>
+
+- 🔭 Ex-Designer [MiniMania](https://minimania.app/)
+
+- 👯 Atualmente trabalhando em desevolvimento e design **Erwin System**
+
+- 💬 Fale comigo sobre **React, Vue, TypeScript**
+
+- 📫 Fale comigo **gabriel_dias_santiago@hotmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
-
-**O que eu ando fazendo?**
-
-👨🏽‍💻 Atualmente estou trabalhando em algo legal 😉.
-
-🌱 Atualmente estou aprendendo Python.
-
-💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar.
-
-📫 Como me contatar: gabriel_dias_santiago@hotmail.com.
-
-***
-
- <br>
-
-
-**As linguagens que eu sei**
-
-<code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" /></code>
-<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img alt="Visual Studio Code" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
-<code><img alt="HTML5" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img alt="CSS3" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
-
-***
-
-<br />
-
-<p align="center"> 
-  Quantidade de visitas<br>
-  <img src="./teste.svg" />
-</p>
-
------
-Credits: [Gabriel](https://github.com/gabrieldiassantiago)
-
-Editado última vez em: 21/08/2022
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>

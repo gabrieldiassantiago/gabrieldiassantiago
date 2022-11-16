@@ -5,7 +5,7 @@
 
 - 👯 Atualmente trabalhando em desevolvimento e design **Erwin System**
 
-- 💬 Fale comigo sobre **React, Vue, TypeScript**
+- 💬 Fale comigo sobre **React, Vue, TypeScript, Nextjs**
 
 - 📫 Fale comigo **gabriel_dias_santiago@hotmail.com**
 

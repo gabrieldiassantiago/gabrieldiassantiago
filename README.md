@@ -2,6 +2,7 @@
 <h3 align="center">Desenvolvedor front-end e designer UI/UX</h3>
 
 - 🔭 Ex-Designer [MiniMania](https://minimania.app/)
+- 💼 Designer e programador [ErwinSystem]()
 
 - 👯 Atualmente trabalhando em desevolvimento e design **Erwin System**
 

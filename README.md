@@ -12,6 +12,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <a href="https://www.linkedin.com/in/gabrieldiassantiago/">LinkedIn</a>
+<a href="https://www.instagram.com/_dias17y/">Instagram</a>
 <p align="left">
 </p>
 

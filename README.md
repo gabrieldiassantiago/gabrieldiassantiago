@@ -8,7 +8,7 @@
 
 - 💬 Fale comigo sobre **React, Vue, TypeScript, Nextjs**
 
-- 📫 Fale comigo **gabriel_dias_santiago@hotmail.com**
+- 📫 Fale comigo **gabrieldiassantiago@hotmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">

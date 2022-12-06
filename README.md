@@ -11,6 +11,7 @@
 - 📫 Fale comigo **gabrieldiassantiago@hotmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
+<a href="https://www.linkedin.com/in/gabrieldiassantiago/">LinkedIn</a>
 <p align="left">
 </p>
 

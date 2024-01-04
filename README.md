@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&pause=1000&color=01C38E&size=35&center=true&vCenter=true&width=1000&lines=&lines=Ol%C3%A1%2C+eu+me+chamo+Victor+Bravim;Sou+um+desenvolvedor+front-end)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorBravim&show_icons=true&count_private=true&hide_border=true&title_color=01C38E&icon_color=01C38E&text_color=c9d1d9&bg_color=0d1117" alt="Victor Bravim github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBravim&layout=compact&hide_border=true&title_color=01C38E&text_color=01C38E&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel Dias&show_icons=true&count_private=true&hide_border=true&title_color=01C38E&icon_color=01C38E&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Dias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel Dias&layout=compact&hide_border=true&title_color=01C38E&text_color=01C38E&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorBravim&bg_color=0d1117&color=ffffff&line=132d46&point=01c38e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriel Dias&bg_color=0d1117&color=ffffff&line=132d46&point=01c38e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 

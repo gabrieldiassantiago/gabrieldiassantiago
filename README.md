@@ -1,20 +1,64 @@
-<h1 align="center">Olá,👋, eu sou o Gabriel Dias</h1>
-<h3 align="center">Desenvolvedor front-end e designer UI/UX</h3>
+###
 
-- 🔭 Ex-Designer [MiniMania](https://minimania.app/)
-- 💼 Designer e programador [ErwinSystem]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik&pause=1000&color=01C38E&size=35&center=true&vCenter=true&width=1000&lines=&lines=Ol%C3%A1%2C+eu+me+chamo+Victor+Bravim;Sou+um+desenvolvedor+front-end)](https://git.io/typing-svg)
 
-- 👯 Atualmente trabalhando em desevolvimento e design **Erwin System**
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorBravim&show_icons=true&count_private=true&hide_border=true&title_color=01C38E&icon_color=01C38E&text_color=c9d1d9&bg_color=0d1117" alt="Victor Bravim github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBravim&layout=compact&hide_border=true&title_color=01C38E&text_color=01C38E&bg_color=0d1117" />
+</div>
 
-- 💬 Fale comigo sobre **React, Vue, TypeScript, Nextjs**
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorBravim&bg_color=0d1117&color=ffffff&line=132d46&point=01c38e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 📫 Fale comigo **gabrieldiassantiago@hotmail.com**
+###
 
-<h3 align="left">Conecte-se comigo:</h3>
-<a href="https://www.linkedin.com/in/gabrieldiassantiago/">LinkedIn</a>
-<a href="https://www.instagram.com/_dias17y/">Instagram</a>
-<p align="left">
+<h2 align="left">Tecnologias que eu uso no meu dia</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="center">
+✨ Criando Sites desde 2020
+📚 Atualmente estou aprendendo Python
+🎯 Metas: Aprimorar-me em Front-end
+🎲 Curiosidade: sou um otaku
 </p>
 
-<h3 align="left">Linguagens e Skills:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+###
+
+<h2 align="left">Olá,👋, eu sou o Gabriel Dias</h2>
+Desenvolvedor front-end e designer UI/UX
+🔭 Ex-Designer MiniMania
+
+💼 Designer e programador ErwinSystem
+
+👯 Atualmente trabalhando em desevolvimento e design Erwin System
+
+💬 Fale comigo sobre React, Vue, TypeScript, Nextjs
+
+📫 Fale comigo gabrieldiassantiago@hotmail.com
+
+Conecte-se comigo:
+LinkedIn Instagram

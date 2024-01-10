@@ -3,7 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&pause=1000&color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=&lines=Ol%C3%A1%2C+eu+me+chamo+Victor+Bravim;Sou+um+Desenvolvedor+Front-End)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieldiassantiago&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" alt="Caroline Barbosa github stats" /> 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabrieldiassantiago&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabrieldiassantiago&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBravim&layout=compact&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" />
 </div>
 

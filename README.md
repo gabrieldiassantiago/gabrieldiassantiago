@@ -31,7 +31,7 @@
 <div align="center"> 
   <a href="https://www.instagram.com/seu-instagram/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href = "mailto:gabrieldiassantiago09@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="http://linkedin.com/in/gabrieldiassantiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
 ### 🛠️ Main Skills:
@@ -55,14 +55,10 @@
 - Aprofundando conhecimentos em Tailwind CSS e design responsivo
 - Praticando design de interfaces com Figma e Adobe Creative Suite
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GabrielDiasSantiago/GabrielDiasSantiago/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
-</p>
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielDiasSantiago}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrieldiassantiago}/count.svg" /></p> 
 <br>
 </div>
 

@@ -1,55 +1,73 @@
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&pause=1000&color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=&lines=Ol%C3%A1%2C+eu+me+chamo+Gabriel+Dias;Sou+um+Desenvolvedor+Front-End)](https://git.io/typing-svg)
+# Olá👋, Bem-vindo ao meu perfil do GitHub
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrieldiassantiago&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldiassantiago&layout=compact&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Gabriel+Dias+Santiago...;Tenho+19+anos+...;Desenvolvedor+Full-Stack..."/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrieldiassantiago&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p>- <i>Desenvolvedor Full-Stack apaixonado por tecnologia e criação de soluções inovadoras. Com experiência em desenvolvimento web, mobile e design, estou sempre buscando aprender e aplicar novas tecnologias para criar experiências incríveis. Interessado em frameworks modernos como Next.js, NestJS, React e Vite, além de ferramentas de design como Illustrator, Photoshop e Figma.</i></p>
 
-###
- 
-<h2 align="left">Tecnologias que eu uso no meu dia</h2>
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
 
-###
+## ⚡🙋‍♂️ Sobre mim
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
-   <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</br>
 
-  
-</div>
+- 🌱 Estudando e trabalhando com Next.js, NestJS, React e Vite
+- 🎨 Design e prototipação com Figma, Illustrator e Photoshop
+- 😄 Pronouns: ele/dele
+- 📫 Como chegar até mim: gabrieldiassantiago09@gmail.com
 
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
+<hr>
 
 <p align="center">
-✨ Criando projetos e design desde 2018
-📚 Atualmente estou aprendendo Backend
-🎯 Metas: Aprimorar-me em back-end (api)
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielDiasSantiago&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-###
+<div align="center">  
+  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=GabrielDiasSantiago&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Dias Santiago github stats" /> 
+  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDiasSantiago&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
+</div>
 
+<div align="center"> 
+  <a href="https://www.instagram.com/seu-instagram/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href = "mailto:gabrieldiassantiago09@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
+
+### 🛠️ Main Skills:
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+### 📚 Estudando no momento:
+
+- Aprimorando habilidades em Next.js e NestJS
+- Explorando novas funcionalidades do React e Vite
+- Aprofundando conhecimentos em Tailwind CSS e design responsivo
+- Praticando design de interfaces com Figma e Adobe Creative Suite
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GabrielDiasSantiago/GabrielDiasSantiago/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
+</p>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielDiasSantiago}/count.svg" /></p> 
+<br>
+</div>
+
+------
+Credit: [Gabriel Dias Santiago](https://github.com/gabrieldiassantiago09)
+Last Edited on: 01/02/2025
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>

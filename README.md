@@ -2,7 +2,7 @@
 
 # Olá👋, Bem-vindo ao meu perfil do GitHub
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Gabriel+Dias+Santiago...;Tenho+19+anos+...;Desenvolvedor+Full-Stack..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Gabriel+Dias+Santiago...;Tenho+20+anos+...;Desenvolvedor+Full-Stack..."/>
 
 <p>- <i>Desenvolvedor Full-Stack apaixonado por tecnologia e criação de soluções inovadoras. Com experiência em desenvolvimento web, mobile e design, estou sempre buscando aprender e aplicar novas tecnologias para criar experiências incríveis. Interessado em frameworks modernos como Next.js, NestJS, React e Vite, além de ferramentas de design como Illustrator, Photoshop e Figma.</i></p>
 

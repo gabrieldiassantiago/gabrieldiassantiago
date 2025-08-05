@@ -1,4 +1,3 @@
-<img width=100% src="https://i.imgur.com/opEZNGW_d.webp?maxwidth=760&fidelity=grand"/>
 
 # heyy👋, bem vindo ao meu git
 
@@ -59,7 +58,6 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrieldiassantiago}/count.svg" /></p> 
 <br>
 </div>
 

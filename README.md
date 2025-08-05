@@ -1,14 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-# Olá👋, Bem-vindo ao meu perfil do GitHub
+# heyy👋, bem vindo ao meu git
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Gabriel+Dias+Santiago...;Tenho+20+anos+...;Desenvolvedor+Full-Stack..."/>
 
-<p>- <i>Desenvolvedor Full-Stack apaixonado por tecnologia e criação de soluções inovadoras. Com experiência em desenvolvimento web, mobile e design, estou sempre buscando aprender e aplicar novas tecnologias para criar experiências incríveis. Interessado em frameworks modernos como Next.js, NestJS, React e Vite, além de ferramentas de design como Illustrator, Photoshop e Figma.</i></p>
+<p>- <i>Sou Desenvolvedor Full-Stack, mas com um carinho por front-end.. tenho experiências em nextjs, vite, react, nestjs, nodejs, prisma, sqlite, mysql, postgresql e também com design ui/ux, crio protótipos bem minimalistas (mas também gosto muito de design todo coloridão), desde seja funcional.
+</i></p>
 
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
 
-## ⚡🙋‍♂️ Sobre mim
+## ⚡🙋‍♂️ Um pouquinho sobre mim
 
 </br>
 

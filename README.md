@@ -1,5 +1,5 @@
 
-# heyy👋, bem vindo ao meu git
+# Heyyy! 👋 Seja super bem-vindo
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Gabriel+Dias+Santiago...;Tenho+20+anos+...;Desenvolvedor+Full-Stack..."/>
 

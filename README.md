@@ -3,12 +3,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Gabriel+Dias+Santiago...;Tenho+20+anos+...;Desenvolvedor+Full-Stack..."/>
 
-<p>- <i>Sou Desenvolvedor Full-Stack, mas com um carinho por front-end.. tenho experiências em nextjs, vite, react, nestjs, nodejs, prisma, sqlite, mysql, postgresql e também com design ui/ux, crio protótipos bem minimalistas (mas também gosto muito de design todo coloridão), desde seja funcional.
+<p>- <i>Sou Desenvolvedor Full-Stack, mas com um carinho por front-end.. Tenho experiências em nextjs, vite, react, nestjs, nodejs, prisma, sqlite, mysql, postgresql e também com design ui/ux.
+  Um diferencial é as habilidades com branding e design gráfico, o que me torna um pouco mais colaborativo em diversas áreas de um projeto.
 </i></p>
 
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
 
-## ⚡🙋‍♂️ Um pouquinho sobre mim
+## ⚡🙋‍♂️ Sobre mim rapidão
 
 </br>
 
@@ -16,6 +17,8 @@
 - 🎨 Design e prototipação com Figma, Illustrator e Photoshop
 - 😄 Pronouns: ele/dele
 - 📫 Como chegar até mim: gabrieldiassantiago09@gmail.com
+  
+  Além disso, sou uma pessoa que **ama trabalhar com projetos criativos que resolvem problemas reais e impactam pessoas**. Gosto de sentir que estou colocando energia em algo que faz diferença de verdade.. outra coisa também, sou daqueles que acredita que qualidade importa, seja na experiência, no visual ou no código bem escrito.  
 
 <hr>
 

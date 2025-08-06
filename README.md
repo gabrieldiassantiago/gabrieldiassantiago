@@ -12,11 +12,13 @@
 ## ⚡🙋‍♂️ Sobre mim rapidão
 
 </br>
+
 - 🌱 Estudando e trabalhando com Next.js, NestJS, React e Vite
 - 🎨 Design e prototipação com Figma, Illustrator e Photoshop
 - 😄 Pronouns: ele/dele
 - 📫 Como chegar até mim: gabrieldiassantiago09@gmail.com
-  Além disso, sou uma pessoa que **ama trabalhar com projetos criativos que resolvem problemas reais e impactam pessoas**. Gosto de sentir que estou colocando energia em algo que faz diferença de verdade.. outra coisa também, sou daqueles que acredita que qualidade importa, seja na experiência, no visual ou no código bem escrito.  
+  Além disso, sou uma pessoa que **ama trabalhar com projetos criativos que resolvem problemas reais e impactam pessoas**. Gosto de sentir que estou colocando energia em algo que faz diferença de verdade.. outra coisa também, sou daqueles que acredita que qualidade importa, seja na experiência, no visual ou no código bem escrito.
+  
 <hr>
 
 <p align="center">

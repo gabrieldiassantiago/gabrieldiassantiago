@@ -11,13 +11,13 @@ Além do código, tenho experiência em **UI/UX e design gráfico**, o que me aj
 ## ⚡🙋‍♂️ Sobre mim rapidão
 
 </br>
-- 🌱 Estudando e trabalhando com Next.js, NestJS, React e Vite
-- 🎨 Design e prototipação com Figma, Illustrator e Photoshop
-- 😄 Pronouns: ele/dele
-- 📫 Como chegar até mim: gabrieldiassantiago09@gmail.com
+- 🌱 Estudando e trabalhando com Next.js, NestJS, React e Vite </br>
+- 🎨 Design e prototipação com Figma, Illustrator e Photoshop</br>
+- 😄 Pronouns: ele/dele</br>
+- 📫 Como chegar até mim: gabrieldiassantiago09@gmail.com</br>
 
 
-
+</br>
 O que mais valorizo no meu trabalho é **qualidade**, e não apenas velocidade.  
 Acredito que cada detalhe conta, seja na experiência do usuário, no visual ou em um código limpo e bem estruturado. Para mim, entregar rápido pode impressionar, mas entregar com qualidade é o que realmente faz diferença. </i></p>
   

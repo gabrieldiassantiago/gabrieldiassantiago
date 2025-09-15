@@ -1,24 +1,25 @@
 
-# Heyyy! 👋 Seja super bem-vindo
+# Heyyy! 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Gabriel+Dias+Santiago...;Tenho+20+anos+...;Desenvolvedor+Full-Stack..."/>
 
-<p>- <i>Sou Desenvolvedor Full-Stack, mas com um carinho por front-end.. Tenho experiências em nextjs, vite, react, nestjs, nodejs, prisma, sqlite, mysql, postgresql e também com design ui/ux.
-  Um diferencial é as habilidades com branding e design gráfico, o que me torna um pouco mais colaborativo em diversas áreas de um projeto.
-</i></p>
+<p>- <i>Sou Desenvolvedor Full-Stack, mas com um carinho especial pelo front-end. Trabalho com Next.js, Vite, React, NestJS, Node.js, Prisma e diferentes bancos relacionais (SQLite, MySQL, PostgreSQL).  
+Além do código, tenho experiência em **UI/UX e design gráfico**, o que me ajuda a colaborar de forma mais criativa em projetos multidisciplinares.  
 
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
 
 ## ⚡🙋‍♂️ Sobre mim rapidão
 
 </br>
-
 - 🌱 Estudando e trabalhando com Next.js, NestJS, React e Vite
 - 🎨 Design e prototipação com Figma, Illustrator e Photoshop
 - 😄 Pronouns: ele/dele
 - 📫 Como chegar até mim: gabrieldiassantiago09@gmail.com
 
-  Além disso, sou uma pessoa que **ama trabalhar com projetos criativos que resolvem problemas reais e impactam pessoas**. Gosto de sentir que estou colocando energia em algo que faz diferença de verdade.. outra coisa também, sou daqueles que acredita que qualidade importa, seja na experiência, no visual ou no código bem escrito.
+
+
+O que mais valorizo no meu trabalho é **qualidade**, e não apenas velocidade.  
+Acredito que cada detalhe conta, seja na experiência do usuário, no visual ou em um código limpo e bem estruturado. Para mim, entregar rápido pode impressionar, mas entregar com qualidade é o que realmente faz diferença. </i></p>
   
 <hr>
 

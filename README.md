@@ -24,18 +24,22 @@ Acredito que cada detalhe conta — seja na experiência do usuário, no visual 
 <hr>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielDiasSantiago&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrieldiassantiago&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=GabrielDiasSantiago&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Dias Santiago github stats" /> 
-  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDiasSantiago&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrieldiassantiago&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Dias Santiago github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldiassantiago&layout=compact&hide_border=true&title_color=7B68EE&text_color=A020F0&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldiassantiago&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=7B68EE&fire=A020F0&currStreakLabel=A020F0" />
 </div>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/seu-instagram/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href = "mailto:gabrieldiassantiago09@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="http://linkedin.com/in/gabrieldiassantiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://www.instagram.com/seu-instagram/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:gabrieldiassantiago09@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="http://linkedin.com/in/gabrieldiassantiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ### 🛠️ Main Skills:

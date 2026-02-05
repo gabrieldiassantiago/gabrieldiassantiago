@@ -1,69 +1,76 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-# Heyyy! 👋 Seja super bem-vindo
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=30&center=true&vCenter=true&lines=Gabriel+Dias+Santiago;Dev+Full-Stack+com+alma+de+designer;React+%7C+Node+%7C+Next.js;Criando+coisas+que+fazem+sentido" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Gabriel+Dias+Santiago...;Tenho+20+anos+...;Desenvolvedor+Full-Stack..."/>
+<br/>
 
-<p>- <i>Sou Desenvolvedor Full-Stack, mas com um carinho por front-end.. Tenho experiências em nextjs, vite, react, nestjs, nodejs, prisma, sqlite, mysql, postgresql e também com design ui/ux.
-  Um diferencial é as habilidades com branding e design gráfico, o que me torna um pouco mais colaborativo em diversas áreas de um projeto.
-</i></p>
+> **Sou desenvolvedor full-stack com um pé no design.** Traduzindo: eu não só escrevo código, mas também me preocupo com como a coisa toda vai se sentir na mão do usuário. 
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+Aos 13 anos eu já tava criando interfaces pra servidores de jogos — e desde então nunca parei de misturar tecnologia com estética. Hoje trabalho com **React, Next.js, Node e TypeScript** no dia a dia, mas também me viro bem no mobile com **React Native** quando preciso levar as ideias pro bolso das pessoas.
 
-## ⚡🙋‍♂️ Sobre mim rapidão
+No backend, ando brincando com **NestJS, Redis, BullMQ** e bancos que vão de **PostgreSQL e MySQL** até **MongoDB** quando o esquema é mais soltinho. **Supabase e Firebase** entram quando quero prototipar rápido sem perder a sanidade.
 
-</br>
+O que me move é construir tecnologia centrada em pessoas — não só features pra features. Gosto de projetos multidisciplinares onde posso colocar a mão na massa tanto no código quanto na experiência visual.
 
-- 🌱 Estudando e trabalhando com Next.js, NestJS, React e Vite
-- 🎨 Design e prototipação com Figma, Illustrator e Photoshop
-- 😄 Pronouns: ele/dele
-- 📫 Como chegar até mim: gabrieldiassantiago09@gmail.com
+---
 
- O que mais valorizo no meu trabalho é **qualidade**, e não apenas velocidade.  
-Acredito que cada detalhe conta — seja na experiência do usuário, no visual ou em um código limpo e bem estruturado. Para mim, entregar rápido pode impressionar, mas entregar com qualidade é o que realmente faz diferença. </i></p>
-  
-<hr>
+## 🎯 O que você vai encontrar por aqui
 
+- **Web apps** que funcionam bem e são bonitos de ver (Next.js + Vite + React)
+- **APIs** estruturadas e que não dão dor de cabeça (Node + NestJS)
+- **Mobile** quando a ideia precisa sair do desktop (React Native)
+- **Design de interfaces** que fazem sentido (Figma + Adobe Creative Suite)
 
+---
+
+## 🛠️ Stack que realmente uso no dia a dia
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend & Infra
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Design & Ferramentas
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 🚀 Projetos que me orgulho
+
+- **[InteliSensor](https://github.com/gabrieldiassantiago/backend-unisal-integrador/)** — Sistema IoT de detecção de quedas para idosos. Unindo hardware, software e preocupação real com quem vai usar
+- **[iFood Clone](https://github.com/gabrieldiassantiago/ifood-backend)** — Sistema de delivery full-stack com painel administrativo completo
+
+*(Quer ver mais? [Me chama no LinkedIn](http://linkedin.com/in/gabrieldiassantiago/))*
+
+---
 
 <div align="center">
   <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldiassantiago&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=7B68EE&fire=A020F0&currStreakLabel=A020F0" />
 </div>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/seu-instagram/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:gabrieldiassantiago09@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:gabrieldiassantiago09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="http://linkedin.com/in/gabrieldiassantiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### 🛠️ Main Skills:
+<br/>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
-### 📚 Estudando no momento:
-
-- Aprimorando habilidades em Next.js e NestJS
-- Explorando novas funcionalidades do React e Vite
-- Aprofundando conhecimentos em Tailwind CSS e design responsivo
-- Praticando design de interfaces com Figma e Adobe Creative Suite
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-
-<br>
-</div>
-
-------
-Credit: [Gabriel Dias Santiago](https://github.com/gabrieldiassantiago09)
-Last Edited on: 01/02/2025
+> *"Qualidade antes de velocidade. Código limpo, design que respira, e um produto que resolva de verdade o problema de alguém."*
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>

@@ -71,6 +71,4 @@ O que me move é construir tecnologia centrada em pessoas — não só features 
 
 <br/>
 
-> *"Qualidade antes de velocidade. Código limpo, design que respira, e um produto que resolva de verdade o problema de alguém."*
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>

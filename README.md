@@ -10,7 +10,7 @@
 
 Aos 13 anos eu já tava criando interfaces pra servidores de jogos — e desde então nunca parei de misturar tecnologia com estética. Hoje trabalho com **React, Next.js, Node e TypeScript** no dia a dia, mas também me viro bem no mobile com **React Native** quando preciso levar as ideias pro bolso das pessoas.
 
-No backend, ando brincando com **NestJS, Redis, BullMQ** e bancos que vão de **PostgreSQL e MySQL** até **MongoDB** quando o esquema é mais soltinho. **Supabase e Firebase** entram quando quero prototipar rápido sem perder a sanidade.
+No backend, ando brincando com **NestJS, Redis, BullMQ** e bancos que vão de **PostgreSQL e MySQL** até **MongoDB** (não é muito minha praia, mas a gente também tenta). **Supabase e Firebase** entram quando quero prototipar rápido sem perder a sanidade.
 
 O que me move é construir tecnologia centrada em pessoas — não só features pra features. Gosto de projetos multidisciplinares onde posso colocar a mão na massa tanto no código quanto na experiência visual.
 
